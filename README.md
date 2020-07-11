@@ -1,8 +1,8 @@
 # Rob_Portfolio
-Data Science Portfolio
 
-## Bio
+I love math, coding, and data. Since finishing my phd in algebraic topology (2013) I've been teaching high school math. I started to integrated more coding into my teaching 5 years ago and have not looked back! I've introduced entire grades of students to Jupyter notebooks, led a calculus class to implement gradient descent and solve regression problems, watched students implement k-means from scratch to compress images, and most recently led an independent study on image classification with deep learning.
 
+Here are some of my own projects. Tools I use include Python, NumPy, pandas, scikit-learn, keras, tensorflow among others.
  
 2. Billboard Top 100 with Spotify Audio Features (EDA + Classification)
 
