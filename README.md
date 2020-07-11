@@ -4,8 +4,9 @@ I love math, coding, and data. Since finishing my phd in algebraic topology (201
 
 Here are some of my own projects. Tools I use include Python, Jupyter notebook, Google Colaboratory, NumPy, pandas, scikit-learn, Keras, TensorFlow and others.
 
+
  
-### 2. Billboard Hot 100 with Spotify Audio Features (EDA + Classification) [the code](https://github.com/RobNewt/Data-Analysis/blob/master/Billboard_Top_100.ipynb)
+## 1. Billboard Hot 100 with Spotify Audio Features [the code](https://github.com/RobNewt/Data-Analysis/blob/master/Billboard_Top_100.ipynb)
 
 Since 1958, Billboard Magazine publishes a weekly chart of the hottest 100 songs in music based on sales, radio play, and streaming. I did some EDA on this data set to look at trends over time.
 
@@ -44,6 +45,6 @@ I looked up some of the songs that were the worst classified to see where my mod
 Last I integrated Spotify's api into the workbook so I could grab audio features for any song I was interested in and see what my models would predict as the age of that song.
 
 
-Project 1: Rolling Stone's Top 500 
+## 2: Rolling Stone's Top 500 
 
   This project is an exploration of Rolling Stones top 500 albums of all time. I looked at the breakdown by genre and over time. There's a lot of Rock, and a lot of it comes from 1970-1980! 
