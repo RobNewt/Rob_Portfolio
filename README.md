@@ -4,7 +4,7 @@ I love math, coding, and data. Since finishing my phd in algebraic topology (201
 
 Here are some of my own projects. Tools I use include Python, Jupyter notebook, Google Colaboratory, NumPy, pandas, scikit-learn, Keras, TensorFlow and others.
  
-2. Billboard Hot 100 with Spotify Audio Features (EDA + Classification)
+### 2. Billboard Hot 100 with Spotify Audio Features (EDA + Classification)
 
 Since 1958, Billboard Magazine publishes a weekly chart of the hottest 100 songs in music based on sales, radio play, and streaming. I did some EDA on this data set to look at trends over time.
 
